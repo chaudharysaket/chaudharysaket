@@ -1,5 +1,5 @@
 ### Hi 👋
-I’m Saket. I am a software engineer. I have worked in different areas:
+I am Saket. I am a software engineer. I have worked in different areas:
 * Serverless Instrumentation - New Relic
 * Personalization Software - BCG
 * Support Software - AWS
