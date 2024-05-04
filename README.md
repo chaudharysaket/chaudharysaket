@@ -1,9 +1,9 @@
 ### Hi 👋
-I’m a software engineer. I have worked in different areas:
-* Automation & Computer Vision - Tata Steel
-* Support Software - AWS
-* Personalization Software - BCG
+I’m Saket. I am a software engineer. I have worked in different areas:
 * Serverless Instrumentation - New Relic
+* Personalization Software - BCG
+* Support Software - AWS
+* Automation & Computer Vision - Tata Steel
 
 ### Fun fact:
 Enjoy art. Listening to music. 
