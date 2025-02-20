@@ -1,7 +1,7 @@
 ### Hi 👋
 I am Saket. I am a software engineer. I have worked in different areas:
 * Serverless Instrumentation - New Relic
-* Personalization Software - BCG
+* Personalized marketing Software - BCG
 * Support Software - AWS
 * Automation & Computer Vision - Tata Steel
 
